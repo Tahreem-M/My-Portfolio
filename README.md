@@ -38,4 +38,4 @@ A modern, visually stunning personal portfolio website built with HTML, CSS, and
 
 ## Deployment
 
-Deployed to  Vercel, https://portfolio-nine-rho-tbi7r3aphi.vercel.app/
+Deployed to  Vercel, https://my-portfolio-rho-ten-98.vercel.app/
