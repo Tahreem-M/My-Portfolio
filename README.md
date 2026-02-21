@@ -35,4 +35,4 @@ A modern, visually stunning personal portfolio website built with HTML, CSS, and
 
 ## Deployment
 
-Deploy to GitHub Pages, Netlify, Vercel, or any static hosting service by uploading the project files.
+Deployed to Vercel
