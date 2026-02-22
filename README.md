@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # working link
-https://portfolio-nine-rho-tbi7r3aphi.vercel.app/
+[https://portfolio-nine-rho-tbi7r3aphi.vercel.app/](https://my-portfolio-rho-ten-98.vercel.app/)
 
 =======
 >>>>>>> dad9618505ee5d8af246d6f30fb94301456db633
@@ -42,7 +42,11 @@ A modern, visually stunning personal portfolio website built with HTML, CSS, and
 ## Deployment
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Deployed to  Vercel, https://portfolio-nine-rho-tbi7r3aphi.vercel.app/
 =======
 Deployed to Vercel
 >>>>>>> dad9618505ee5d8af246d6f30fb94301456db633
+=======
+Deployed to  Vercel, https://my-portfolio-rho-ten-98.vercel.app/
+>>>>>>> 93357528cc539750733e2e12397e3b683565a907
