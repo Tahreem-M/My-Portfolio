@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # working link
 https://portfolio-nine-rho-tbi7r3aphi.vercel.app/
 
+=======
+>>>>>>> dad9618505ee5d8af246d6f30fb94301456db633
 # Tahreem Malik - Personal Portfolio
 
 A modern, visually stunning personal portfolio website built with HTML, CSS, and JavaScript.
@@ -38,4 +41,8 @@ A modern, visually stunning personal portfolio website built with HTML, CSS, and
 
 ## Deployment
 
+<<<<<<< HEAD
 Deployed to  Vercel, https://portfolio-nine-rho-tbi7r3aphi.vercel.app/
+=======
+Deployed to Vercel
+>>>>>>> dad9618505ee5d8af246d6f30fb94301456db633
